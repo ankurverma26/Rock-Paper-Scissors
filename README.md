@@ -2,6 +2,8 @@
 
 A simple Rock, Paper & Scissors game built using **HTML, CSS, and JavaScript**.
 
+---
+
 ## Features
 
 - Play against the computer
@@ -10,11 +12,15 @@ A simple Rock, Paper & Scissors game built using **HTML, CSS, and JavaScript**.
 - Reset game button
 - Simple and clean interface
 
+---
+
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
+
+---
 
 ## How to Play
 
@@ -23,6 +29,8 @@ A simple Rock, Paper & Scissors game built using **HTML, CSS, and JavaScript**.
 3. The winner is decided based on the game rules.
 4. Scores are updated after each round.
 5. Click **Reset Game** to start over.
+
+---
 
 ## Project Structure
 
@@ -33,6 +41,7 @@ Rock-Paper-Scissors/
 ├── script.js
 └── README.md
 ```
+---
 
 ## Author
 
